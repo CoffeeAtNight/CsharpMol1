@@ -1,0 +1,13 @@
+D:\Users\piotr.wojcik\source\repos\Emerytura14\ConsoleAppInteractive\bin\Debug\ConsoleAppInteractive.exe.config
+D:\Users\piotr.wojcik\source\repos\Emerytura14\ConsoleAppInteractive\bin\Debug\ConsoleAppInteractive.exe
+D:\Users\piotr.wojcik\source\repos\Emerytura14\ConsoleAppInteractive\bin\Debug\ConsoleAppInteractive.pdb
+D:\Users\piotr.wojcik\source\repos\Emerytura14\ConsoleAppInteractive\obj\Debug\ConsoleAppInteractive.csprojAssemblyReference.cache
+D:\Users\piotr.wojcik\source\repos\Emerytura14\ConsoleAppInteractive\obj\Debug\ConsoleAppInteractive.csproj.CoreCompileInputs.cache
+D:\Users\piotr.wojcik\source\repos\Emerytura14\ConsoleAppInteractive\obj\Debug\ConsoleAppInteractive.exe
+D:\Users\piotr.wojcik\source\repos\Emerytura14\ConsoleAppInteractive\obj\Debug\ConsoleAppInteractive.pdb
+C:\Users\48506\Desktop\Emerytura14\ConsoleAppInteractive\bin\Debug\ConsoleAppInteractive.exe.config
+C:\Users\48506\Desktop\Emerytura14\ConsoleAppInteractive\bin\Debug\ConsoleAppInteractive.exe
+C:\Users\48506\Desktop\Emerytura14\ConsoleAppInteractive\bin\Debug\ConsoleAppInteractive.pdb
+C:\Users\48506\Desktop\Emerytura14\ConsoleAppInteractive\obj\Debug\ConsoleAppInteractive.csprojAssemblyReference.cache
+C:\Users\48506\Desktop\Emerytura14\ConsoleAppInteractive\obj\Debug\ConsoleAppInteractive.exe
+C:\Users\48506\Desktop\Emerytura14\ConsoleAppInteractive\obj\Debug\ConsoleAppInteractive.pdb
